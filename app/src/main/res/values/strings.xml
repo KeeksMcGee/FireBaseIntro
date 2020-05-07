@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBaseIntro</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signout">Sign Out</string>
+    <string name="createact">Create Account</string>
+</resources>
